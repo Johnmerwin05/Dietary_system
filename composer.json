@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-ai/php-ml": "^0.10.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

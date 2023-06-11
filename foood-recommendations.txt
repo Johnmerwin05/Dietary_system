@@ -1,0 +1,82 @@
+algorithms that calculates the estimated glomerular filtration rate (eGFR)
+
+MDRD (Modification of Diet in Renal Disease) for adults
+CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) for all ages
+Cockcroft-Gault equation
+
+
+name a foods must eat if you have high Creatinine 
+
+1. Examples of low-protein foods include vegetables, fruits, grains, and fats.
+
+2. Foods low in potassium: Examples of low-potassium foods include apples, berries, cabbage, carrots, green beans, and onions.
+
+3. Foods low in phosphorus: Examples of low-phosphorus foods include bread, rice, pasta, apples, carrots, and green beans.
+
+4. Foods with healthy fats: Consuming foods that are high in healthy fats, such as avocados, nuts, and olive oil
+
+
+name a foods must eat if you have low Creatinine 
+
+1. Red meat: Beef, pork, and other red meats are high in creatine, a nutrient that is converted to creatinine in the body. Eating red meat can help to increase creatinine levels.
+
+2. Seafood: Fish and shellfish are also good sources of creatine. Salmon, tuna, and shrimp are all high in this nutrient.
+
+3. Dairy products: Milk, cheese, and yogurt are all rich in protein, which is essential for maintaining healthy muscles. They also contain creatine, which can help to increase creatinine levels.
+
+4. Eggs: Eggs are a good source of protein and contain all of the essential amino acids. They are also a source of creatine, which can help to increase creatinine levels.
+
+5. Beans and legumes: Beans and legumes are a good source of protein and can be a healthy alternative to meat. They also contain arginine, an amino acid that has been shown to increase creatinine levels in the blood.
+
+
+name a foods must eat if you have normal Creatinine to maintain it
+
+1. Berries: Berries are rich in antioxidants and can help reduce inflammation in the body, which can help protect your kidneys.
+
+2. Fatty fish: Fatty fish such as salmon, mackerel, and tuna are high in omega-3 fatty acids, which can help reduce inflammation and protect your kidneys.
+
+3. Garlic: Garlic has anti-inflammatory properties and can help lower blood pressure, which can help protect your kidneys.
+
+4. Leafy greens: Leafy greens such as spinach, kale, and collard greens are high in vitamins and minerals that can help support healthy kidney function.
+
+5. Whole grains: Whole grains such as brown rice, quinoa, and whole wheat bread are high in fiber and can help regulate blood sugar levels, which can help protect your kidneys.
+
+
+High Potassium Foods:
+
+Bananas
+Sweet potatoes
+Spinach
+Avocado
+Lentils
+Salmon
+Yogurt
+Tomatoes
+Mushrooms
+
+
+Low Potassium Foods:
+
+Apples
+Blueberries
+Cauliflower
+Cucumber
+Green beans
+Rice
+Noodles
+Bread
+Chicken
+
+
+Normal Potassium Foods:
+
+Broccoli
+Carrots
+Eggs
+Grapes
+Quinoa
+Oats
+Almonds
+Chicken breast
+Beef
+

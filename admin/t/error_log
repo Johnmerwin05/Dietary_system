@@ -1,0 +1,12 @@
+[21-Oct-2022 21:15:58 America/Detroit] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/scholarngaurora/public_html/admin/t/db_conn.php on line 9
+[21-Oct-2022 21:15:58 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/scholarngaurora/public_html/admin/t/login.php on line 30
+[21-Oct-2022 21:15:58 America/Detroit] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scholarngaurora/public_html/admin/t/login.php on line 31
+[21-Oct-2022 21:16:13 America/Detroit] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/scholarngaurora/public_html/admin/t/db_conn.php on line 9
+[21-Oct-2022 21:16:13 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/scholarngaurora/public_html/admin/t/login.php on line 30
+[21-Oct-2022 21:16:13 America/Detroit] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scholarngaurora/public_html/admin/t/login.php on line 31
+[21-Oct-2022 21:16:50 America/Detroit] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/scholarngaurora/public_html/admin/t/db_conn.php on line 9
+[21-Oct-2022 21:16:50 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/scholarngaurora/public_html/admin/t/login.php on line 30
+[21-Oct-2022 21:16:50 America/Detroit] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scholarngaurora/public_html/admin/t/login.php on line 31
+[21-Oct-2022 21:16:58 America/Detroit] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/scholarngaurora/public_html/admin/t/db_conn.php on line 9
+[21-Oct-2022 21:16:58 America/Detroit] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/scholarngaurora/public_html/admin/t/login.php on line 30
+[21-Oct-2022 21:16:58 America/Detroit] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/scholarngaurora/public_html/admin/t/login.php on line 31
